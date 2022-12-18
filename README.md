@@ -10,4 +10,4 @@ A games recommendation app built with ReactJS that recommend you games with titl
 
 Checkout the app here 
 
-https://5gqf0q.csb.app/
+https://gamerecommender.netlify.app/
