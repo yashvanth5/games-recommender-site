@@ -1,6 +1,6 @@
 # Games-recommender-site
 
-A gsmes recommendation app built with ReactJS that recommend you games with title , description and ratings.
+A games recommendation app built with ReactJS that recommend you games with title , description and ratings.
 
 
 # Tech Stack
