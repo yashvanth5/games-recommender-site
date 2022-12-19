@@ -8,6 +8,6 @@ A games recommendation app built with ReactJS that recommend you games with titl
  ReactJS
 
 
-Checkout the app here 
+# Checkout the app here 
 
 https://gamerecommender.netlify.app/
